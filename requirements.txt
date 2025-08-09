@@ -1,0 +1,25 @@
+# Core dependencies for Jupyter
+notebook
+ipywidgets
+
+# Agentic AI Frameworks
+langchain
+crewai
+langgraph
+pyautogen
+
+# Google Gemini
+google-generativeai
+
+# Hugging Face
+huggingface_hub
+transformers
+datasets
+
+# Environment variables
+python-dotenv
+
+# Other useful libraries
+requests
+beautifulsoup4
+duckduckgo-search
